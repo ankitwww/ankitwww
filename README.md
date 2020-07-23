@@ -1,6 +1,6 @@
 ### Hi there 👋! My name is Ankit Kashyap. 
 
-I build softwares. I love software architecture, system design, backend development and product management.
+I build software. I love software architecture, system design, backend development and product management.
 - 🔭 I’m currently helping Vasitum to reach the next level of scale 
 - 🌱 Currently learning - Tensorflow!
 - ⚡ Fun fact: Failed entrepreneur
