@@ -2,10 +2,15 @@
 
 I build software. I love software architecture, system design, backend development and product management.
 - 🔭 I’m currently helping Vasitum to reach the next level of scale 
-- 🌱 Currently learning - Tensorflow!
+- 🌱 Currently learning - Kubernetes!
 - ⚡ Fun fact: Failed entrepreneur
-- 🌐 Gorakhpur -> Bengaluru -> Hyderabad -> Seattle -> Noida -> Vancouver -> ??
+- 🌐 Gorakhpur (my hometown) -> Bengaluru -> Hyderabad -> Seattle -> Noida -> Vancouver -> ??
 
+- Fun facts about Gorakhpur:
+	- In early '90 - It was famous for "Mahanth, Machchar and Mafia".
+	- Famous for Gorakhnath Math & Gita press
+	- Mahanth Adityanath
+	- Have you read the famous book <a href="https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi">Autobiography of a Yogi</a> by Paramahansa Yogananda? He was born in Gorakhpur.
 
 <p align="center">
 	<a href="https://ankitkashyap.dev">ankitkashyap.dev</a>
