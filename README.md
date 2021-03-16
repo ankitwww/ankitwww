@@ -1,7 +1,6 @@
 ### Hi there 👋! My name is Ankit Kashyap. 
 
 I build software. I love software architecture, system design, backend development and product management.
-- 🔭 I’m currently helping Vasitum to reach the next level of scale 
 - 🌱 Currently learning - Kubernetes!
 - ⚡ Fun fact: Failed entrepreneur
 - 🌐 Gorakhpur (my hometown) -> Bengaluru -> Hyderabad -> Seattle -> Noida -> Vancouver -> ??
